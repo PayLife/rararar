@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.db
+dicom_studies.db
+test_dicom.db
+test_unit.db
+test_samples/
+demo_dicom_data/
+sample_dicom_data/
+dicom_browser_screenshot.png
+dicom_viewport_screenshot.png
